@@ -19,3 +19,9 @@ git merge
 git config --list
 git fetch
 git log
+
+Git is not the same as github
+
+Github is a company that uses git as the underlying technology
+for its product
+Microsoft acquired github in 2018
